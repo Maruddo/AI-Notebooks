@@ -1,25 +1,21 @@
-# 📘 Class Notebooks – Artificial Intelligence and Machine Learning
+# 🎓 Notebooks de Clase – Inteligencia Artificial y Machine Learning
 
-This repository collects a series of notebooks I created during my academic training, solving practical exercises assigned in class. The content covers essential areas of artificial intelligence, including machine learning, neural networks, natural language processing (NLP), and computer vision, using tools such as PyTorch, Scikit-learn, and NumPy.
+Este repositorio recopila una colección de notebooks realizados durante mi formación académica, como parte de ejercicios prácticos propuestos en distintas asignaturas. Cada notebook documenta el proceso de resolución, el enfoque técnico aplicado y, en algunos casos, mejoras personales para experimentar con los resultados.
 
-These are not fully developed projects from scratch, but rather individual solutions based on the exercises provided by instructors in various subjects. Each notebook documents the problem-solving approach, the techniques applied, and—in some cases—my own extensions to enhance or experiment with the results.
+Los temas cubiertos incluyen aprendizaje automático, redes neuronales, procesamiento de lenguaje natural (NLP) y visión por computadora, utilizando herramientas como PyTorch, NumPy, y Scikit-learn.
 
-## 🎯 Repository Goals
-- Consolidate the knowledge acquired throughout my coursework  
-- Serve as a technical reference for other students  
-- Document personal progress in AI-related topics  
+## 📚 Temas Abordados
+- ❤️ Predicción de enfermedades con redes neuronales  
+- 📊 Clasificación y preprocesamiento de datos tabulares  
+- 🖼️ Análisis de imágenes mediante técnicas de visión por computadora  
+- 📝 Clasificación de texto con técnicas básicas de NLP
 
-## 📂 Contents
-- 🌡️ Disease prediction using neural networks  
-- 📝 Sentiment analysis with NLP  
-- 🖼️ Image classification using convolutional models  
-- 🔢 Preprocessing structured tabular data  
-
-## ⚙️ Technologies Used
+## ⚙️ Tecnologías Utilizadas
 - Python
-- PyTorch / Scikit-learn  
-- NumPy / Pandas / Matplotlib  
-- Jupyter Notebooks  
+- PyTorch  
+- NumPy / Pandas / Scikit-learn  
+- Matplotlib / Seaborn  
+- Jupyter Notebooks
 
-## 📄 License
-This project is licensed under the MIT License. See the full terms in the LICENSE file.
+## 📄 Licencia
+Distribuido bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
