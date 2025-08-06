@@ -37,7 +37,7 @@ jupyter notebook sc_model.ipynb
 Puedes elegir entre entrenar el modelo o solo hacer test. Si entrenas, podrás ajustar el learning rate y el número de épocas en cada ciclo.
 Además puedes elegir guardar los mejores pesos.
 
-🧠 Posibles mejoras
+## ⬆️ Posibles mejoras
 Normalización y data augmentation
 
 Transfer learning con modelos preentrenados
