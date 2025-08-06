@@ -1,4 +1,4 @@
-# 🎓 Notebooks de Clase – Inteligencia Artificial y Machine Learning
+# 🎓 Notebooks de clase de Inteligencia Artificial
 
 Este repositorio recopila una colección de notebooks realizados durante mi formación académica, como parte de ejercicios prácticos propuestos en distintas asignaturas. Cada notebook documenta el proceso de resolución, el enfoque técnico aplicado y, en algunos casos, mejoras personales para experimentar con los resultados.
 
