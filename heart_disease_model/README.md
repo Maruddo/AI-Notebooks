@@ -13,6 +13,9 @@ Está desarrollado íntegramente en un único script con PyTorch, e incluye func
 - Carga automática de los mejores pesos obtenidos en pruebas previas.
 - Interfaz interactiva que solicita datos personales para realizar predicciones.
 
+## 🗂️ Dataset
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
 ## 🧠 Arquitectura del modelo
 
 La red neuronal consta de tres capas densas con activaciones ReLU. El diseño busca equilibrio entre simplicidad y capacidad de generalización:
