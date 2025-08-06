@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## 📓 Ejecuta el Notebook
 Abre el notebook desde Jupyter:
 ```bash
-jupyter notebook notebooks/heart_disease_prediction.ipynb
+jupyter notebook heart_disease.ipynb
 ```
 Puedes elegir entre entrenar el modelo o introducir tus datos personales para obtener una predicción. Si entrenas, podrás ajustar el learning rate y el número de épocas en cada ciclo.
 Además puedes elegir guardar los mejores pesos.
