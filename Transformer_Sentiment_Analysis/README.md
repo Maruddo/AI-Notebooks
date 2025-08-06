@@ -46,7 +46,7 @@ Abre el notebook desde Jupyter:
 ```bash
 jupyter notebook Transformer_Sentiment_Analysis.ipynb
 ```
-Puedes elegir entre entrenar el modelo o introducir tus datos personales para obtener una predicción. Si entrenas, podrás ajustar el learning rate y el número de épocas en cada ciclo. Además puedes elegir guardar los mejores pesos.
+Puedes elegir entre entrenar el modelo o usar datos de test para obtener una predicción. Si entrenas, podrás ajustar el learning rate y el número de épocas en cada ciclo. Además puedes elegir guardar los mejores pesos.
 
 ## 📄 Licencia
 Proyecto bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
