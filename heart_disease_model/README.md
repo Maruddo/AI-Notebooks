@@ -27,7 +27,7 @@ La red neuronal consta de tres capas densas con activaciones ReLU. El diseño bu
 ## ⚙️ Requisitos
 Recomendado usar un entorno virtual con Jupyter instalado. 
 
-Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: pytorch+128 --> pythorch+tuVersión
+Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: torch==2.8.0+cu128 --> torch==2.8.0+cu{tuVersión}
 
 Instala las dependencias necesarias ejecutando:
 ```bash
