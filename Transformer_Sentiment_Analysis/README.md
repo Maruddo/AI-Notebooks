@@ -34,7 +34,9 @@ El diseño busca capturar relaciones contextuales profundas entre palabras sin u
 
 ## ⚙️ Requisitos
 
-Recomendado usar un entorno virtual con Python 3.8+.
+Recomendado usar un entorno virtual. 
+
+Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: pytorch+128 --> pythorch+tuVersión
 
 Instala las dependencias necesarias ejecutando:
 
