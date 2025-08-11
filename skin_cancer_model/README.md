@@ -23,7 +23,9 @@ Salida con 2 neuronas (clasificación binaria)
 Conv2d → MaxPool → Conv2d → MaxPool → Flatten → Linear → LeakyReLU → ... → Linear(2)
 
 ## ⚙️ Requisitos
-Recomendado usar un entorno virtual con Jupyter instalado.
+Recomendado usar un entorno virtual con Jupyter instalado. 
+
+Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: pytorch+128 --> pythorch+tuVersión
 
 Instala las dependencias necesarias con:
 ```bash
