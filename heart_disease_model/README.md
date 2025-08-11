@@ -25,7 +25,9 @@ La red neuronal consta de tres capas densas con activaciones ReLU. El diseño bu
 - Salida: 2 clases (presencia o ausencia de enfermedad)
 
 ## ⚙️ Requisitos
-Recomendado usar un entorno virtual con Jupyter instalado.
+Recomendado usar un entorno virtual con Jupyter instalado. 
+
+Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: pytorch+128 --> pythorch+tuVersión
 
 Instala las dependencias necesarias ejecutando:
 ```bash
