@@ -36,7 +36,7 @@ El diseño busca capturar relaciones contextuales profundas entre palabras sin u
 
 Recomendado usar un entorno virtual. 
 
-Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: pytorch+128 --> pythorch+tuVersión
+Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: torch==2.8.0+cu128 → torch==2.8.0+cu{tuVersión}
 
 Instala las dependencias necesarias ejecutando:
 
