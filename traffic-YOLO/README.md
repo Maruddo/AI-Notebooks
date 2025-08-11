@@ -30,7 +30,7 @@ process_video(): recorre el vídeo, muestra los resultados en tiempo real y perm
 ## ⚙️ Requisitos
 Recomendado usar un entorno virtual con Jupyter instalado. 
 
-Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: pytorch+128 --> pythorch+tuVersión
+Si quieres usar CUDA, usa la versión 12.8 o cambia el archivo requirements para tu versión: torch==2.8.0+cu128 --> torch==2.8.0+cu{tuVersión}
 
 Instala las dependencias necesarias con:
 ```bash
@@ -49,6 +49,7 @@ Exportar estadísticas de tráfico por zona.
 
 ## 📄 Licencia
 Proyecto bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
+
 
 
 
