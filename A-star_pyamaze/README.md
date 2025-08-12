@@ -26,7 +26,6 @@ To run the code you only need ``pyamaze`` | Para ejecutar el código solo necesi
 
 Install requirements | Instalar requisitos:
 ```
-bash
 pip install -r requirements.txt
 ```
 ## 🧠 How It Works | Cómo Funciona
